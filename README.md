@@ -1,2 +1,5 @@
 # hello-world
-start to use github
+Hi Humans!
+
+This is the day I start to use github!
+
